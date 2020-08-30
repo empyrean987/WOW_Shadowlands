@@ -54,9 +54,9 @@
     <td class="tg-0lax">6</td>
     <td class="tg-0lax">Arywynn</td>
     <td class="tg-0lax">DK</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Tank</td>
     <td class="tg-0lax">Paladin</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Tank</td>
 
   </tr>
   <tr>
@@ -126,6 +126,7 @@
   <tr>
     <td class="tg-0lax">15</td>
     <td class="tg-0lax">Me</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
