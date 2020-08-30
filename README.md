@@ -176,8 +176,8 @@
     <td class="tg-0lax">Celtica</td>
     <td class="tg-0lax">Priest</td>
     <td class="tg-0lax">Holy</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax">Resto</td>
   </tr>
   <tr>
     <td class="tg-0lax">22</td>
