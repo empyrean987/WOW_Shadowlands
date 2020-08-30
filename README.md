@@ -4,7 +4,9 @@
     <th class="tg-0lax">Number</th>    
     <th class="tg-0lax">Person or Main Player Name</th>
     <th class="tg-0lax">Primary</th>
+    <th class="tg-0lax">Spec</th>
     <th class="tg-0lax">Secondary</th>
+    <th class="tg-0lax">Spec</th>
   </tr>
 </thead>
 <tbody>
@@ -12,7 +14,9 @@
     <td class="tg-0lax">1</td>
     <td class="tg-0lax">Schrike</td>
     <td class="tg-0lax">Rouge</td>
+    <td class="tg-0lax">All</td>
     <td class="tg-0lax">Hunter</td>
+    <td class="tg-0lax">All</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
@@ -142,9 +146,9 @@
   </tr>
   <tr>
     <td class="tg-0lax">23</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Sha</td>
+    <td class="tg-0lax">Druid</td>
+    <td class="tg-0lax">Shaman or Paladin</td>
   </tr>
   <tr>
     <td class="tg-0lax">24</td>
