@@ -88,9 +88,9 @@
   </tr>
   <tr>
     <td class="tg-0lax">14</td>
-    <td class="tg-0lax">Murinae</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Watteratt</td>
+    <td class="tg-0lax">Paladin</td>
+    <td class="tg-0lax">Shaman</td>
   </tr>
   <tr>
     <td class="tg-0lax">15</td>
