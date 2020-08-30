@@ -159,7 +159,7 @@
     <td class="tg-0lax">19</td>
     <td class="tg-0lax">Freendra</td>
     <td class="tg-0lax">Mage</td>
-    <td class="tg-0lax">Forst</td>
+    <td class="tg-0lax">Frost</td>
     <td class="tg-0lax">Paladin</td>
     <td class="tg-0lax">Prot</td>
   </tr>
