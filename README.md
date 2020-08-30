@@ -38,7 +38,7 @@
     <td class="tg-0lax">4</td>
     <td class="tg-0lax">Pewpewlazr</td>
     <td class="tg-0lax">Druid</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Balance</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
@@ -54,9 +54,9 @@
     <td class="tg-0lax">6</td>
     <td class="tg-0lax">Arywynn</td>
     <td class="tg-0lax">DK</td>
-    <td class="tg-0lax">Tank</td>
+    <td class="tg-0lax">Blood</td>
     <td class="tg-0lax">Paladin</td>
-    <td class="tg-0lax">Tank</td>
+    <td class="tg-0lax">Prot</td>
 
   </tr>
   <tr>
@@ -157,11 +157,11 @@
   </tr>
   <tr>
     <td class="tg-0lax">19</td>
-    <td class="tg-0lax">Thillanlex</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Freendra</td>
+    <td class="tg-0lax">Mage</td>
+    <td class="tg-0lax">Forst</td>
+    <td class="tg-0lax">Paladin</td>
+    <td class="tg-0lax">Prot</td>
   </tr>
   <tr>
     <td class="tg-0lax">20</td>
