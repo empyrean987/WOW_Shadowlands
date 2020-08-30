@@ -21,20 +21,25 @@
   <tr>
     <td class="tg-0lax">2</td>
     <td class="tg-0lax">Hellbelle</td>
-    <td class="tg-0lax"></td>
     <td class="tg-0lax">Hunter</td>
     <td class="tg-0lax"></td>
-  </tr>
+    <td class="tg-0lax">DK</td>
+    <td class="tg-0lax"></td>
+</tr>
   <tr>
     <td class="tg-0lax">3</td>
     <td class="tg-0lax">Tittysword</td>
     <td class="tg-0lax">Druid</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax">Priest</td>
-  </tr>
+    <td class="tg-0lax"></td>
+</tr>
   <tr>
     <td class="tg-0lax">4</td>
     <td class="tg-0lax">Pewpewlazr</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax">Druid</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
@@ -42,16 +47,23 @@
     <td class="tg-0lax">Wrinkles</td>
     <td class="tg-0lax">Shaman</td>
     <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">6</td>
     <td class="tg-0lax">Arywynn</td>
     <td class="tg-0lax">DK</td>
     <td class="tg-0lax">Paladin</td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">5</td>
+
   </tr>
   <tr>
     <td class="tg-0lax">7</td>
     <td class="tg-0lax">Tancasaurus</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
@@ -60,10 +72,14 @@
     <td class="tg-0lax">Gatien</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
-  </tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+</tr>
   <tr>
     <td class="tg-0lax">9</td>
     <td class="tg-0lax">Ickymicky</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
@@ -72,10 +88,22 @@
     <td class="tg-0lax">Shankskanks</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Wrinkles</td>
+    <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">11</td>
     <td class="tg-0lax">Tiltplz</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Wrinkles</td>
+    <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
@@ -84,11 +112,23 @@
     <td class="tg-0lax">Dal</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Wrinkles</td>
+    <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">13</td>
     <td class="tg-0lax">Deadly</td>
     <td class="tg-0lax">Warlock</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Wrinkles</td>
+    <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
@@ -96,16 +136,34 @@
     <td class="tg-0lax">Watteratt</td>
     <td class="tg-0lax">Paladin</td>
     <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Wrinkles</td>
+    <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">15</td>
     <td class="tg-0lax">Me</td>
     <td class="tg-0lax">????</td>
     <td class="tg-0lax"></td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Wrinkles</td>
+    <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">16</td>
     <td class="tg-0lax">Bella</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Wrinkles</td>
+    <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
@@ -114,10 +172,22 @@
     <td class="tg-0lax">Buttons</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Wrinkles</td>
+    <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">18</td>
     <td class="tg-0lax">Felicity</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Wrinkles</td>
+    <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
@@ -126,10 +196,22 @@
     <td class="tg-0lax">Thillanlex</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Wrinkles</td>
+    <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">20</td>
     <td class="tg-0lax">Fuzzycheese</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+     <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Wrinkles</td>
+    <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
