@@ -174,8 +174,8 @@
   <tr>
     <td class="tg-0lax">21</td>
     <td class="tg-0lax">Celtica</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Priest</td>
+    <td class="tg-0lax">Holy</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
