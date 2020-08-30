@@ -119,9 +119,9 @@
     <td class="tg-0lax">14</td>
     <td class="tg-0lax">Watteratt</td>
     <td class="tg-0lax">Paladin</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Retribution</td>
     <td class="tg-0lax">Shaman</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Elemental</td>
   </tr>
   <tr>
     <td class="tg-0lax">15</td>
