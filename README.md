@@ -21,8 +21,9 @@
   <tr>
     <td class="tg-0lax">2</td>
     <td class="tg-0lax">Hellbelle</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax">Hunter</td>
-    <td class="tg-0lax">DK</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">3</td>
