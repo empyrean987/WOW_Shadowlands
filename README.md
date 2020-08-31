@@ -126,8 +126,8 @@
   <tr>
     <td class="tg-0lax">15</td>
     <td class="tg-0lax">Me</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Druid</td>
+    <td class="tg-0lax">Guardian</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
@@ -197,11 +197,11 @@
   </tr>
   <tr>
     <td class="tg-0lax">24</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Ulfthane</td>
+    <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax">Elemental/Enhancment</td>
+    <td class="tg-0lax">Mage</td>
+    <td class="tg-0lax">???</td>
   </tr>
   <tr>
     <td class="tg-0lax">25</td>
