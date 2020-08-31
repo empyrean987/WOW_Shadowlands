@@ -94,8 +94,8 @@
   <tr>
     <td class="tg-0lax">11</td>
     <td class="tg-0lax">Tiltplz</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Warrior</td>
+    <td class="tg-0lax">Fury/Arms</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
