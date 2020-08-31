@@ -13,7 +13,7 @@
   <tr>
     <td class="tg-0lax">1</td>
     <td class="tg-0lax">Schrike</td>
-    <td class="tg-0lax">Rouge</td>
+    <td class="tg-0lax">Rogue</td>
     <td class="tg-0lax">All</td>
     <td class="tg-0lax">Hunter</td>
     <td class="tg-0lax">All</td>
@@ -23,8 +23,8 @@
     <td class="tg-0lax">Hellbelle</td>
     <td class="tg-0lax">Monk</td>
     <td class="tg-0lax">Mist/Wind</td>
-    <td class="tg-0lax">Shaman</td>
-    <td class="tg-0lax">Resto/Ele</td>
+    <td class="tg-0lax">Hunter</td>
+    <td class="tg-0lax">MM/BM</td>
 </tr>
   <tr>
     <td class="tg-0lax">3</td>
@@ -150,7 +150,7 @@
   <tr>
     <td class="tg-0lax">18</td>
     <td class="tg-0lax">Felicity</td>
-    <td class="tg-0lax">Rouge</td>
+    <td class="tg-0lax">Rogue</td>
     <td class="tg-0lax">All</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
