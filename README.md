@@ -86,10 +86,10 @@
   <tr>
     <td class="tg-0lax">10</td>
     <td class="tg-0lax">Shankskanks</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Priest</td>
+    <td class="tg-0lax">Shadow</td>
+    <td class="tg-0lax">Monk</td>
+    <td class="tg-0lax">All</td>
   </tr>
   <tr>
     <td class="tg-0lax">11</td>
@@ -102,7 +102,7 @@
   <tr>
     <td class="tg-0lax">12</td>
     <td class="tg-0lax">Dal</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Warlock</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
