@@ -213,11 +213,11 @@
   </tr>
   <tr>
     <td class="tg-0lax">26</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Koroha</td>
+    <td class="tg-0lax">Warlock</td>
+    <td class="tg-0lax">All</td>
+    <td class="tg-0lax">Paladin</td>
+    <td class="tg-0lax">Protection</td>
   </tr>
   <tr>
     <td class="tg-0lax">27</td>
