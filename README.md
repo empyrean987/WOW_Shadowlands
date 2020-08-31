@@ -150,8 +150,8 @@
   <tr>
     <td class="tg-0lax">18</td>
     <td class="tg-0lax">Felicity</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Rouge</td>
+    <td class="tg-0lax">All</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
@@ -205,11 +205,11 @@
   </tr>
   <tr>
     <td class="tg-0lax">25</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Trembladez</td>
+    <td class="tg-0lax">Warrior</td>
+    <td class="tg-0lax">Fury/Arms</td>
+    <td class="tg-0lax">Hunter</td>
+    <td class="tg-0lax">BM/MM</td>
   </tr>
   <tr>
     <td class="tg-0lax">26</td>
