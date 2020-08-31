@@ -22,9 +22,9 @@
     <td class="tg-0lax">2</td>
     <td class="tg-0lax">Hellbelle</td>
     <td class="tg-0lax">Monk</td>
-    <td class="tg-0lax">ALL</td>
-    <td class="tg-0lax">Mage</td>
-    <td class="tg-0lax">Arcane</td>
+    <td class="tg-0lax">Mist/Wind</td>
+    <td class="tg-0lax">Shaman</td>
+    <td class="tg-0lax">Resto/Ele</td>
 </tr>
   <tr>
     <td class="tg-0lax">3</td>
