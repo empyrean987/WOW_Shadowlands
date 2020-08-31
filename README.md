@@ -21,10 +21,10 @@
   <tr>
     <td class="tg-0lax">2</td>
     <td class="tg-0lax">Hellbelle</td>
-    <td class="tg-0lax">Hunter</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">DK</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Monk</td>
+    <td class="tg-0lax">ALL</td>
+    <td class="tg-0lax">Mage</td>
+    <td class="tg-0lax">Arcane</td>
 </tr>
   <tr>
     <td class="tg-0lax">3</td>
@@ -45,10 +45,10 @@
   <tr>
     <td class="tg-0lax">5</td>
     <td class="tg-0lax">Wrinkles</td>
-    <td class="tg-0lax">Shaman</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Priest</td>
+    <td class="tg-0lax">Discipline</td>
+    <td class="tg-0lax">Mage</td>
+    <td class="tg-0lax">Frost</td>
   </tr>
   <tr>
     <td class="tg-0lax">6</td>
