@@ -185,10 +185,10 @@
   <tr>
     <td class="tg-0lax">20</td>
     <td class="tg-0lax">Fuzzycheese</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Priest</td>
+    <td class="tg-0lax">Discipline</td>
+    <td class="tg-0lax">Priest</td>
+    <td class="tg-0lax">Shadow</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
