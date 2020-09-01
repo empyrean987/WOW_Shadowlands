@@ -63,7 +63,7 @@
     <td class="tg-0lax">Blood</td>
     <td class="tg-0lax">Paladin</td>
     <td class="tg-0lax">Prot</td>
-    <td class="tg-0lax">Saturday, Sunday Envenings</td>
+    <td class="tg-0lax">Friday, Saturday, Sunday Envenings</td>
   </tr>
   <tr>
     <td class="tg-0lax">7</td>
