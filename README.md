@@ -7,7 +7,7 @@
     <th class="tg-0lax">Spec</th>
     <th class="tg-0lax">Secondary</th>
     <th class="tg-0lax">Spec</th>
-    <th class="tg-0lax"Raid Times(Server Time)</th>
+    <th class="tg-0lax">Raid Times(Server Time)</th>
   </tr>
 </thead>
 <tbody>
