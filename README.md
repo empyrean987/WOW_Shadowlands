@@ -72,7 +72,7 @@
     <td class="tg-0lax">All</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Monday: 10 or later, Tuesday:any time, Wed: 10 or later, Thurs: anytime, Friday: uhg but 10 or later sat: same, Sunday: 10 or later</td>
   </tr>
   <tr>
     <td class="tg-0lax">8</td>
