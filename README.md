@@ -18,7 +18,7 @@
     <td class="tg-0lax">All</td>
     <td class="tg-0lax">Hunter</td>
     <td class="tg-0lax">All</td>
-    <td class="tg-0lax">M-F, 7PM-12PM</td> 
+    <td class="tg-0lax">M-F, 7PM-2AM</td> 
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
@@ -27,7 +27,7 @@
     <td class="tg-0lax">Mist/Wind</td>
     <td class="tg-0lax">Hunter</td>
     <td class="tg-0lax">MM/BM</td>
-    <td class="tg-0lax"></td> 
+    <td class="tg-0lax">All The time</td> 
 </tr>
   <tr>
     <td class="tg-0lax">3</td>
