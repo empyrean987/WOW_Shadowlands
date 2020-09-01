@@ -62,8 +62,8 @@
   <tr>
     <td class="tg-0lax">7</td>
     <td class="tg-0lax">Tancasaurus</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Rouge</td>
+    <td class="tg-0lax">All</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
