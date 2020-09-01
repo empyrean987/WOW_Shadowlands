@@ -216,7 +216,7 @@
     <td class="tg-0lax">Resto</td>
     <td class="tg-0lax">Shaman</td>
     <td class="tg-0lax">Resto</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"7-10 S-Th, Anytime weekends></td>
   </tr>
   <tr>
     <td class="tg-0lax">24</td>
@@ -225,7 +225,7 @@
     <td class="tg-0lax">Elemental/Enhancment</td>
     <td class="tg-0lax">Mage</td>
     <td class="tg-0lax">???</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">7-10 S-Th, Anytime weekends</td>
   </tr>
   <tr>
     <td class="tg-0lax">25</td>
