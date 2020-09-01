@@ -36,7 +36,7 @@
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Priest</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td> 
+    <td class="tg-0lax">Weekdays ending by 11 but I can do weekends as late as like 11-11:30. The only nights I could do later currently are Wednesday and Thursday night</td> 
 </tr>
   <tr>
     <td class="tg-0lax">4</td>
