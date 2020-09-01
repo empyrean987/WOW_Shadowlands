@@ -134,10 +134,10 @@
   <tr>
     <td class="tg-0lax">16</td>
     <td class="tg-0lax">Bella</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Priest</td>
+    <td class="tg-0lax">Shadow</td>
+    <td class="tg-0lax">Hunter</td>
+    <td class="tg-0lax">MM</td>
   </tr>
   <tr>
     <td class="tg-0lax">17</td>
