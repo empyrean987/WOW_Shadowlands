@@ -133,9 +133,9 @@
     <td class="tg-0lax">Watteratt</td>
     <td class="tg-0lax">Paladin</td>
     <td class="tg-0lax">Retribution</td>
-    <td class="tg-0lax">Shaman</td>
-    <td class="tg-0lax">Elemental</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Monk</td>
+    <td class="tg-0lax">Windwalker</td>
+    <td class="tg-0lax">7:30-12 Everyday</td>
   </tr>
   <tr>
     <td class="tg-0lax">15</td>
