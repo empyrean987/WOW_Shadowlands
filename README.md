@@ -153,7 +153,7 @@
     <td class="tg-0lax">Shadow</td>
     <td class="tg-0lax">Hunter</td>
     <td class="tg-0lax">MM</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">10pm est -12:30 or so weekdays for me and weekends are ok. fridays are NOT the weekend! :p</td>
   </tr>
   <tr>
     <td class="tg-0lax">17</td>
