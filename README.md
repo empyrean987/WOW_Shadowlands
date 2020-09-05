@@ -203,11 +203,11 @@
   <tr>
     <td class="tg-0lax">22</td>
     <td class="tg-0lax">Bevelarden</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Rouge</td>
+    <td class="tg-0lax">Sub</td>
+    <td class="tg-0lax">DemonHunter</td>
+    <td class="tg-0lax">Havoc</td>
+    <td class="tg-0lax">Sunday-Thursday 6:30 PM - Midnight</td>
   </tr>
   <tr>
     <td class="tg-0lax">23</td>
