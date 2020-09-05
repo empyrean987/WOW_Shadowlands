@@ -180,7 +180,7 @@
     <td class="tg-0lax">Frost</td>
     <td class="tg-0lax">Paladin</td>
     <td class="tg-0lax">Prot</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">during the weekdays or weekend the time works best for me is 6pm my time i think thats would be 9pm server</td>
   </tr>
   <tr>
     <td class="tg-0lax">20</td>
